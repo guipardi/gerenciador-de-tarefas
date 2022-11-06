@@ -2,7 +2,7 @@
 
 > Status do projeto: Concluído
 
-Para rodar esse projeto em sua máquina é necessário possuir o Python instalado. Siga o link:
+Para rodar esse projeto em sua máquina é necessário possuir o Python instalado. Segue o link:
 
 ```
 https://www.python.org/downloads/
