@@ -6,7 +6,6 @@ class Projeto:
     def __iter__(self):
         return self.tarefas.__iter__()
 
-
     def add(self, descricao):
         self.tarefas.append(Tarefa(descricao))
 
